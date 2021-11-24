@@ -2,6 +2,10 @@
 My own custom ERC-20 token.
 
 --------------------------
+My Process: [medium article link]
+
+--------------------------
+Token Information:
 
 Name: Queen Sarah Token
 
