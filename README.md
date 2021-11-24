@@ -1,6 +1,8 @@
 # QueenSarahToken
 My own custom ERC-20 token.
 
+--------------------------
+
 Name: Queen Sarah Token
 
 Symbol: QST
