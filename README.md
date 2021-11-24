@@ -1,5 +1,5 @@
-# QueenSarahToken
-My own custom ERC-20 token.
+# 👑 Queen Sarah Token 👑
+My custom ERC-20 token.
 
 --------------------------
 My Process: [medium article link]
