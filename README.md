@@ -2,7 +2,7 @@
 My custom ERC-20 token.
 
 --------------------------
-My Process: [medium article link]
+My Process: https://medium.com/geekculture/how-to-create-your-own-crypto-token-4097a173dd73
 
 --------------------------
 Token Information:
